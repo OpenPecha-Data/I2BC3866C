@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W14260
   title: གསང་འདུས་སྒྲོན་མ་རབ་གསལ་གྱི་རྒྱ་ཆེར་བཤད་པ།
-  volume: ''
+  volume:
+    7c50780539294f70b32104cefddf6f3c:
+      image_group_id: I1KG5215
+      title: Volume 1 of gsang 'dus sgron ma rab gsal gyi rgya cher bshad pa
+      volume_number: 1
+      total_pages: 940
   author: ''
+ebook_metadata:
+  title: གསང་འདུས་སྒྲོན་མ་རབ་གསལ་གྱི་རྒྱ་ཆེར་བཤད་པ།
+  author: ''
+  sku: P008028
+  cover: cover.jpg
+  layers:
+  - pagination
