@@ -5,11 +5,12 @@ source_metadata:
   title: གསང་འདུས་སྒྲོན་མ་རབ་གསལ་གྱི་རྒྱ་ཆེར་བཤད་པ།
   author: ''
   volumes:
-    11b3b26bf35e496e822629ddae5afbc7:
+    7c50780539294f70b32104cefddf6f3c:
       image_group_id: I1KG5215
-      title: ''
+      title: Volume 1 of gsang 'dus sgron ma rab gsal gyi rgya cher bshad pa
       volume_number: 1
       total_pages: 940
+      base_file: v001.txt
 ebook_metadata:
   title: གསང་འདུས་སྒྲོན་མ་རབ་གསལ་གྱི་རྒྱ་ཆེར་བཤད་པ།
   author: ''
